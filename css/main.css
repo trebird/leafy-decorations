@@ -32,7 +32,7 @@ html {
 .nav a:hover {
   background-color: #fff;
   color: #145b1d;
-  background-image: url("../images/leaf-icon.svg")
+  background-image: url("../images/leaf-icon.svg");
   background-position: .75em center;
   background-repeat: no-repeat;
   background-size: 64px;
